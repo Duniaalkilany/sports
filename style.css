@@ -1,0 +1,18 @@
+h1{background-color:blue;
+color:white;
+text-align : center;}
+
+
+nav ul li {display:inline;
+border: 3px solid blue ;
+padding: 3px;
+margin:5px;}
+
+main article img {width:50%}
+main article h3 {background-color: blue;
+color: white ;
+}
+main article p {color:#1b1717 ;}
+footer{color:blue;text-align: center;}
+body {background-color: #a3d2ca;
+ }
