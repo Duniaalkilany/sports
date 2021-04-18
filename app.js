@@ -1,7 +1,8 @@
 
 
 
-alert('hello football lovers')
+
+/*alert('hello football lovers')
 var nameofplayer
 
 var favplayer= function(){
@@ -27,4 +28,5 @@ var imagesnumber= prompt('how many images of your favourite football player do y
 for(var i=0 ; i < imagesnumber ; i++){document.write(userchoose);}
 }
 
-images();
+images();*/
+
