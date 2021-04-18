@@ -65,7 +65,7 @@ if(condition){
 
 // if prompt document.write
 
-var timeNow = prompt("please enter the time now");
+/* var timeNow = prompt("please enter the time now");
 
 if (timeNow >= 18) {
   document.write("Good Evening");
@@ -83,7 +83,7 @@ if (timeNow >= 18) {
     '<img src="https://miro.medium.com/max/1600/1*oqFofdQ4wai3BkHAY6M-Rw.jpeg">'
   );
 }
+*/
 
-
-console.log('bara\'ah');
-console.log('khaled'=='khaled');
+/* console.log('bara\'ah');
+console.log('khaled'=='khaled'); */
