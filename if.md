@@ -85,6 +85,7 @@ if (timeNow >= 18) {
 }
 */
 
+
 /* console.log('bara\'ah');
 console.log('khaled'=='khaled'); */
 
@@ -104,4 +105,8 @@ for ( i = ; statement 2; statement 3) {
 } */
 
 
+
+
+/* console.log('bara\'ah');
+console.log('khaled'=='khaled'); */
 
